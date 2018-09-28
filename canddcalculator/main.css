@@ -1,0 +1,6 @@
+
+#operators, #num-button {
+  display: grid;
+   grid-template-columns: auto auto auto;
+  /* other necessary CSS */
+}
